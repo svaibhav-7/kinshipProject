@@ -1,0 +1,369 @@
+{
+  "fd": {
+    "fold_1": {
+      "threshold": -0.5033354759216309,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_2": {
+      "threshold": -0.4359291195869446,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_3": {
+      "threshold": -0.4131889045238495,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_4": {
+      "threshold": -0.5566839575767517,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_5": {
+      "threshold": -0.4364240765571594,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "mean_threshold": -0.4691123068332672,
+    "mean_roc_auc": 1.0
+  },
+  "fs": {
+    "fold_1": {
+      "threshold": -0.46064111590385437,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_2": {
+      "threshold": -0.4653410017490387,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_3": {
+      "threshold": -0.5667113661766052,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_4": {
+      "threshold": -0.5068009495735168,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_5": {
+      "threshold": -0.46731799840927124,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 0.9803999999999999,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "mean_threshold": -0.4933624863624573,
+    "mean_roc_auc": 0.9960799999999999
+  },
+  "md": {
+    "fold_1": {
+      "threshold": -0.5050609111785889,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_2": {
+      "threshold": -0.5489348769187927,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_3": {
+      "threshold": -0.48674556612968445,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_4": {
+      "threshold": -0.5343180894851685,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_5": {
+      "threshold": -0.4814404547214508,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "mean_threshold": -0.511299979686737,
+    "mean_roc_auc": 1.0
+  },
+  "ms": {
+    "fold_1": {
+      "threshold": -0.5626112222671509,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_2": {
+      "threshold": -0.49201077222824097,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 0.9816,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_3": {
+      "threshold": -0.60451340675354,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_4": {
+      "threshold": -0.5271316170692444,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "fold_5": {
+      "threshold": -0.5036737322807312,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "roc_auc": 1.0,
+      "confusion_matrix": [
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ]
+    },
+    "mean_threshold": -0.5379881501197815,
+    "mean_roc_auc": 0.9963200000000001
+  }
+  
+}
+
+"""
+Final Test Accuracy: 0.9915
+Final Test Precision: 0.9975
+Final Test Recall: 0.9812
+Final Test F1-Score: 0.9893
+Final Confusion Matrix:
+ [[1198    2]
+ [  15  785]]
+"""   

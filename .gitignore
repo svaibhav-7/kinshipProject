@@ -1,0 +1,96 @@
+# Dataset directories (may contain personal or licensed data)
+KinFaceW-I/
+KinFaceW-II/
+
+# Deep3DFaceRecon_pytorch data directories
+Deep3DFaceRecon_pytorch/datasets/
+Deep3DFaceRecon_pytorch/images/
+Deep3DFaceRecon_pytorch/BFM/
+Deep3DFaceRecon_pytorch/checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pt
+checkpoint/
+checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Model files and results (can be large)
+*.h5
+*.hdf5
+results/
+output/
+outputs/
+combined_results/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal information (ensure no personal data is committed)
+*personal*
+*private*
+*secret*
+*config.json
+*credentials*

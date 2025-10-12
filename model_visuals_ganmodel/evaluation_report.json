@@ -1,0 +1,52 @@
+{
+  "model_info": {
+    "checkpoint_path": "/content/final_model.pt",
+    "total_samples": 2000,
+    "adult_samples": 1000,
+    "child_samples": 1000,
+    "feature_dimension": 512
+  },
+  "original_statistics": {
+    "mean": 2.3451865449608533e-10,
+    "std": 0.9999403357505798,
+    "min": -4.130731582641602,
+    "max": 4.351942539215088,
+    "median": 0.0006310142343863845,
+    "child_mean": 1.497101054237504e-10,
+    "child_std": 0.9999399781227112,
+    "adult_mean": 3.193272313239959e-10,
+    "adult_std": 0.9999406933784485,
+    "avg_child_intra_distance": 20.438434600830078,
+    "avg_adult_intra_distance": 18.805469512939453,
+    "avg_inter_group_distance": 20.107481002807617,
+    "silhouette_score": 0.03072543628513813,
+    "calinski_harabasz_score": 17.361604690551758
+  },
+  "normalized_statistics": {
+    "mean": -0.0003044551704078913,
+    "std": 0.9656015038490295,
+    "min": -4.130731582641602,
+    "max": 4.316349029541016,
+    "median": 0.004727897234261036,
+    "child_mean": -0.000608910690061748,
+    "child_std": 0.9299951791763306,
+    "adult_mean": 3.193272313239959e-10,
+    "adult_std": 0.9999406933784485,
+    "avg_child_intra_distance": 16.745372772216797,
+    "avg_adult_intra_distance": 18.805469512939453,
+    "avg_inter_group_distance": 17.900394439697266,
+    "silhouette_score": 0.00997796468436718,
+    "calinski_harabasz_score": 4.562993049621582
+  },
+  "transformation_analysis": {
+    "avg_transformation_distance": 2.9987340734601022,
+    "child_avg_transformation_distance": 5.997467994689941,
+    "child_std_transformation_distance": 3.815545082092285,
+    "max_transformation_distance": 13.19407844543457,
+    "min_transformation_distance": 0.0
+  },
+  "improvement_metrics": {
+    "silhouette_improvement": -0.02074747160077095,
+    "inter_group_distance_change": -2.2070865631103516
+  }
+}

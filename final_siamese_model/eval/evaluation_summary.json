@@ -1,0 +1,12 @@
+{
+  "num_pairs_total": 2000,
+  "num_pairs_kept": 2000,
+  "num_pairs_dropped": 0,
+  "roc_auc": 0.9980760000000001,
+  "pr_auc": 0.9990194808942933,
+  "best_threshold": -0.60451340675354,
+  "accuracy": 0.999,
+  "precision": 1.0,
+  "recall": 0.998,
+  "f1": 0.998998998998999
+}
