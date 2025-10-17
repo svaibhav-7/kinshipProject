@@ -429,14 +429,6 @@ year={2019}
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contact
-
-**Your Name** - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-**Project Link**: [https://github.com/yourusername/kinshipProject](https://github.com/yourusername/kinshipProject)
-
-**Documentation**: [https://yourusername.github.io/kinshipProject](https://yourusername.github.io/kinshipProject)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
@@ -445,7 +437,6 @@ year={2019}
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name]
 
 </div>
 
